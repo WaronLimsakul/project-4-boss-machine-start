@@ -1,5 +1,7 @@
 # Boss Machine
 
+## This project is a part of Codecademy's project-based learning. This project is new and seems interesting to me so I added to public repo.
+
 ## Project Overview
 
 In this project, you will create an entire API to serve information to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. You will create routes to manage your 'minions', your brilliant 'million dollar ideas', and to handle all the annoying meetings that keep getting added to your busy schedule.
